@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/omniauth-dropbox.rb",
+    "omniauth-dropbox.gemspec",
     "test/helper.rb",
     "test/test_omniauth-dropbox.rb"
   ]
