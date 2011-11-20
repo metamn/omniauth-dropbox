@@ -1,6 +1,6 @@
 = omniauth-dropbox
 
-Description goes here.
+just testing ...
 
 == Contributing to omniauth-dropbox
  
