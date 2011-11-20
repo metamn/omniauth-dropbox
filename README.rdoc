@@ -1,4 +1,4 @@
-= omniauth-dropbox
+= omniauth-dropbox (Under Development!)
 
 This gem contains the Dropbox strategy for OmniAuth.
 
@@ -21,6 +21,8 @@ Once these are in, you need to add the following to your config/initializers/omn
   end
 
 You will obviously have to put in your key and secret, which you get when you register your app with Dropbox.
+
+If you are using Devise check out the wiki: https://github.com/plataformatec/devise/wiki/OmniAuth:-Overview
 
 Now just follow the README at: https://github.com/intridea/omniauth
 
