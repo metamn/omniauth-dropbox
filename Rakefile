@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "omniauth-dropbox"
   gem.homepage = "http://github.com/metamn/omniauth-dropbox"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "A Dropbox strategy for Omniauth"
+  gem.description = "Check https://github.com/intridea/omniauth/wiki for more information"
   gem.email = "bartus.csongor@gmail.com"
   gem.authors = ["metamn"]
   # dependencies defined in Gemfile
